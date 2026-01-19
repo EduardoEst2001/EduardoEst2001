@@ -12,6 +12,11 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EduardoEst2001/EduardoEst2001)
 
+## :zap: Recient Activity
+<!--START\_SECTION:activity-->
+
+<!--END\_SECTION:activity-->
+
 <!--
 **EduardoEst2001/EduardoEst2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
